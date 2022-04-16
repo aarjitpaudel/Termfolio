@@ -23,9 +23,9 @@ var data = {
     ],
     resume: 'value',
     socials: [
-        { name: 'socail', value: 'link' },
-        { name: 'social', value: 'link' },
-        { name: 'social', value: 'link' },
-        { name: 'social', value: 'link' }
+        { name: 'Facebook', value: 'https://facebook.com/aarjit.p' },
+        { name: 'Github', value: 'https://github.com/aarjitpaudel' },
+        { name: 'Instagram', value: 'https://instagram.com/aarjit____' },
+        { name: 'Website', value: 'https://aarjit.com' }
     ]
 }
